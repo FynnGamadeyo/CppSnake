@@ -1,4 +1,4 @@
 CppSnake
 ========
 
-Snake game in terminal
+Snake game in terminal-
